@@ -27,7 +27,7 @@ pyasn1==0.3.7
 pyasn1-modules==0.1.5
 pylint==1.7.4
 requests==2.20.0
-rsa==3.4.2
+rsa==4.1
 singledispatch==3.4.0.3
 six==1.11.0
 urllib3==1.24.2
